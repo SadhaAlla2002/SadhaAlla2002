@@ -96,7 +96,7 @@ Software Engineer with **4+ years** of hands‑on experience delivering **scalab
 ## 🎓 Education
 
 **M.S. in Computer Science** — Roosevelt University *(Aug 2023 – Dec 2024)*  
-**B.E. in Electronics & Communication** — PIST for Women *(Jun 2018 – Aug 2022)*
+**B.E. in Electronics & Communication** — Priyadarshini Institute of Science and Technology for Women *(Jun 2018 – Aug 2022)*
 
 ---
 
